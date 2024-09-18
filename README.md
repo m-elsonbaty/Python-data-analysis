@@ -12,7 +12,7 @@ This Python project is designed to analyze hotel room data from a JSON file. It 
 
 1. **Clone the repository:**
    ```bash
-   git clone <your_repository_url>
+   git clone https://github.com/samtogo407/Py_Fornova-.git
    ```
 
 2. **Install dependencies:**
