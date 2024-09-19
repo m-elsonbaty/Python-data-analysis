@@ -72,7 +72,7 @@ def write_output_to_json(data, filename):
         json.dump(data, f, indent=4)
 
 if __name__ == '__main__':
-    # Assuming the JSON data is loaded from a file (replace with your actual loading logic)
+    # JSON data is loaded from hotel_data.json
     with open('hotel_data.json', 'r') as f:
         data = json.load(f)
 
