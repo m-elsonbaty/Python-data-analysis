@@ -26,7 +26,7 @@ This Python project is designed to analyze hotel room data from a JSON file. It 
 
 2. **Run the script:**
    ```bash
-   python3 hotel_data_analyzer.py
+   python3 hotel_data.py
    ```
 
 ### **Output**
